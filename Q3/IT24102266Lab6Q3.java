@@ -13,7 +13,7 @@ public class IT24102266Lab6Q3
     
     System.out.println("Enter positive intigers (terminate input with -99) :");
        
-    while(count<=10)
+    while(true)
     {
       
       System.out.print("Enter number " + count + " :");
